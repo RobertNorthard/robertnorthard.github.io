@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://robertnorthard.github.io
+url: https://robertnorthard.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -88,4 +88,4 @@ gems:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://robertnorthard.com
