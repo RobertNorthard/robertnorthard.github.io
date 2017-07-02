@@ -5,7 +5,7 @@ date: 2015-09-18 21:04
 headerImage: false
 tag:
 - first
-star: true
+star: false
 category: blog
 author: robertnorthard
 description: the first of many.
