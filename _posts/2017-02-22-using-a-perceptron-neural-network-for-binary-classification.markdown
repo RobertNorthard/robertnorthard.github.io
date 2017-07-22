@@ -15,7 +15,7 @@ description: Using a Perceptron Neural Network for Binary Classification
 
 In this blog post, I will discuss my adventures implementing a binary classifier, for linearly separable data using the Perceptron Artificial Neural Network (ANN).
 
-[!Figure 1: Perceptron Artificial Neural Network(https://robertnorthard.com/assets/images/2017-07-22-perceptron-neural-network.png "Perceptron Artificial Neural Network")](https://robertnorthard.com/assets/images/2017-07-22-perceptron-neural-network.png "Perceptron Artificial Neural Network")
+[![Figure 1: Perceptron Artificial Neural Network](https://robertnorthard.com/assets/images/2017-07-22-perceptron-neural-network.png "Perceptron Artificial Neural Network")](https://robertnorthard.com/assets/images/2017-07-22-perceptron-neural-network.png "Perceptron Artificial Neural Network")
 
 A neural network can be considered as a network of nodes connected by weights that takes 'n' number of inputs. See figure 1. To calculate the output of the neural network we multiply all the network inputs by their weights, sum them and pass them to an activation function which determines the output of the network. This is classification.
 
