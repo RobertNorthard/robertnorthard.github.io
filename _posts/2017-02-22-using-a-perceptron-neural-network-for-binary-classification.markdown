@@ -41,9 +41,9 @@ To train the network will we do the following:
 By doing this we can see that by setting all the weights to 0.2 it will solve the logical AND problem.
 
 e.g.
-Input 1 = 1
-Input 2 = 1
-Bias = 1 (always equals 1)
-output = (1 * 0.2) + (1*0.2) + (1*0.2) = 0.6 > 0.5 = 1
+* Input 1 = 1
+* Input 2 = 1
+* Bias = 1 (always equals 1)
+* output = (1 * 0.2) + (1*0.2) + (1*0.2) = 0.6 > 0.5 = 1
 
-See a Python implementation of this network[here](https://github.com/RobertNorthard/perceptron-artificial-neural-network "Python implementation of Perceptron ANN").
+See a Python implementation of this network [here](https://github.com/RobertNorthard/perceptron-artificial-neural-network "Python implementation of Perceptron ANN").
