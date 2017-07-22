@@ -46,4 +46,4 @@ Input 2 = 1
 Bias = 1 (always equals 1)
 output = (1 * 0.2) + (1*0.2) + (1*0.2) = 0.6 > 0.5 = 1
 
-See https://github.com/RobertNorthard/perceptron-artificial-neural-network for a basic Python implementation of this.
+See a Python implementation of this network[here](https://github.com/RobertNorthard/perceptron-artificial-neural-network "Python implementation of Perceptron ANN").
