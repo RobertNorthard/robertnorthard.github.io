@@ -36,7 +36,7 @@ To train the network will we do the following:
 
 1. Set the current weights of the network to random numbers.
 2. For each row in the training set calculate the error by taking the expected result from the actual and adjust the weights accordingly by some percentage which is defined as the learning rate.
-3. Repeat steps 2 for 'n' epoch until the solution is solved.
+3. Repeat steps 2 for 'n' epoch until the solution is solved. This network will not solve every problem. How would you solve it for the 'XOR' operator?
 
 By doing this we can see that by setting all the weights to 0.2 it will solve the logical AND problem.
 
