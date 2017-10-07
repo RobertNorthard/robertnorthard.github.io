@@ -16,3 +16,8 @@ A list of whitepapers to read:
 * [Looking inside the (Drop) box](https://www.usenix.org/system/files/conference/woot13/woot13-kholia.pdf "Looking inside (Drop)Box")
 
 * [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf "Architectural Styles and the Design of Network-based Software Architectures")
+
+* [12 Factor App](https://12factor.net/ "12 Factor App")
+
+* [Beyond the 12 Factor app](https://content.pivotal.io/ebooks/beyond-the-12-factor-app "Beyond the 12 Factor App")
+
