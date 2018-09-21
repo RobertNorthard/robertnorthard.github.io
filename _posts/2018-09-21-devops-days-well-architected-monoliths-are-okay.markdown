@@ -31,7 +31,7 @@ So what does a good monolith look like:
 * Asynchronous communication between components should use a queue (e.g. RabbitMQ). A single code base is publishing and consuming messages
 * If using queues run them in a separate process (e.g. RabbitMQ docker container)
 
-[![Revised Architecture](https://robertnorthard.com/assets/images/21-09-18-monolith.pngg "Monolith Architecture")](https://robertnorthard.com/assets/images/21-09-18-monolith.png "Monolith Architecture")
+[![Revised Architecture](https://robertnorthard.com/assets/images/21-09-18-monolith.png "Monolith Architecture")](https://robertnorthard.com/assets/images/21-09-18-monolith.png "Monolith Architecture")
 
 Once the application is proven, then it would be a good opportunity to start decomposing if required:
 * to support horizontal scaling
