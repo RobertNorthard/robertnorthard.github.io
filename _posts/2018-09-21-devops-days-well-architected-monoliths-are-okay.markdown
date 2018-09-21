@@ -40,6 +40,8 @@ Once the application is proven, then it would be a good opportunity to start dec
 * simplifies debugging and maintenance
  
 
-What are well architected monoliths? Is it a good step for bad monoliths to evolve to (as they have been battle tested rather than rewriting the code base) before splitting?
+What are well architected monoliths?
+
+Participant in the discussion concluded they are a good step for bad monoliths to evolve to before splitting to microservices. This is beacuse the monolith has been battle tested.
 
 ~ Robert
