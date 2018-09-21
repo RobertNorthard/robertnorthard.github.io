@@ -42,6 +42,6 @@ Once the application is proven, then it would be a good opportunity to start dec
 
 What are well architected monoliths?
 
-Participant in the discussion concluded they are a good step for bad monoliths to evolve to before splitting to microservices. This is beacuse the monolith has been battle tested.
+Participant in the discussion concluded they are a good step for bad monoliths to evolve to before splitting to microservices. This is because the monolith has been battle tested.
 
 ~ Robert
