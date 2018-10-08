@@ -18,7 +18,7 @@ DevOps Days London was great this year! The talks were interesting and the cultu
 
 I've always thought that we should build the 'correct size service' rather than 'microservices' just for the sake of having them. It is equivalent to using Kubernetes with one docker container - you would have more etcd nodes...
 
-In this blog post I would like to share one of the outcomes of a DevOps days open space discussion on what is / why good monoliths are okay to start with.
+In this blog post I would like to share one of the outcomes of a DevOps days open space discussion (suggested by [Chris Mills](https://twitter.com/millscj01))  on what is / why good monoliths are okay to start with.
 
 So why are well architected and developed monoliths okay:
 * Fail fast - they let development teams focus on delivering features (to prove or disprove a hypothesis) rather than a complicated microservice architecture 
