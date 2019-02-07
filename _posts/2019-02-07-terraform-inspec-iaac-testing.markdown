@@ -14,7 +14,7 @@ description: Testing IaaC with InSpec
 ---
 
 
-Our Infra structure CI / CD pipeline is a key enabler for us failing fast, controlling releases to environments, delivering with agility, ensuring parity between environments but The typical steps include: linting, Terraform validate, plan and apply.
+Our Infra structure CI / CD pipeline is a key enabler for us failing fast, controlling releases to environments, delivering with agility, ensuring parity between environments. The typical steps include: linting, Terraform validate, plan and apply.
 
 We often face issues with Terraform apply passing and changes being promoted to higher environments, but the cloud account not being in the desired state – “Null Resources” try to avoid them at all costs (not idempotent). Manual testing is also slow and painful. We are also aspiring to Continuous Deployment for infrastructure as code – we need tests to achieve this.
 
