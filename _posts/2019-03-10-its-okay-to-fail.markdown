@@ -12,7 +12,7 @@ author: robertnorthard
 description: it's okay to fail
 ---
 
-It's okay to fail! If you're not failing you may not be learning effectively. Maybe failing / making mistakes through trial and error is how you learn best, but perseverance is key. Failing fast is a key principle of DevOps to reduce the impact and risk of failing (e.g. this could be financial by identifying defects earlier).
+It's okay to fail! If you're not failing you may not be learning effectively. Maybe failing / making mistakes through trial and error is how you learn best, but perseverance is key. Failing fast is a key principle of DevOps to reduce the impact and risk of failing (e.g. this could be financial by identifying defects earlier - see image below from AgileModeling).
 
 [![Cost of change](https://robertnorthard.com/assets/images/cost-of-change.jpg "Cost of Change")](http://www.agilemodeling.com/essays/costOfChange.htm)
 
