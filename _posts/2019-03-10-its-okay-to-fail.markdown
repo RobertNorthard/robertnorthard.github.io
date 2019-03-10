@@ -1,5 +1,5 @@
 ---
-title: It's okay to fail"
+title: It's okay to fail
 layout: post
 date: 2019-03-10 15:00
 headerImage: false
