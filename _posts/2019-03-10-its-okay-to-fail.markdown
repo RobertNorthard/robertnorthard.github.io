@@ -15,6 +15,7 @@ description: it's okay to fail
 It's okay to fail! If you're not failing you may not be learning effectively. Maybe failing is how you learn best, but perseverance is key. Failing fast is a key principle of DevOps to reduce the impact and risk of failing (e.g. this could be financial by identifying defects earlier).
 
 [![Cost of change](https://robertnorthard.com/assets/images/cost-of-change.jpg "Cost of Change")](https://robertnorthard.com/assets/images/cost-of-change.jpg "Cost of Change")
+[Image Source](http://www.agilemodeling.com/essays/costOfChange.htm)
 
 As a DevOps enthusiast I'm always looking for ways to fail faster. A recent example - I like readable code (we all do) by being well formed and formatted (e.g. using the terraform format command). I  often ignore formatting warnings in my editor and forget to execute unit tests, but it would fail CI. This is waste, we could have failed faster. We should shift further left out of the pipeline and into the IDE so I forced myself to fix errors prior to committing by installing a pre-commit web hook - this can also be shared with the team. Every-time the pipeline breaks, assuming we are following a Trunk-based development approach, the team may stop to fix it, slowing down development.
 
