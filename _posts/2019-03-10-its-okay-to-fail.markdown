@@ -22,7 +22,7 @@ So what can you do to fail faster and reduce risk:
 * Work to a minimum viable product (MVP) 
 * Use metrics and data / feedback to guide solutions
 * Execute experiments - Hypothesis Driven Development
-* Don't over-optimise, not everything needs to be a "golden" solution - as in my previous blog [post](https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/) building a "well architected monolith" is better than building a custom micro-services that takes months to fail or deliver value
+* Don't over-optimise, not everything needs to be a "golden" solution - as in my previous blog [post](https://robertnorthard.com/devops-days-well-architected-monoliths-are-okay/) building a "well architected monolith" is more appropriate for eliciting requirements than building a custom micro-service architecture that takes months to fail or deliver value
 * Establish CI pipelines from day 1
 
 So when you are working on your next project, going out for dinner without a reservation or taking a car for a MOT ask yourself how can you fail faster!
