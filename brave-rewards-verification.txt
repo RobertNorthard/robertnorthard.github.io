@@ -1,4 +1,0 @@
-s is a Brave Rewards publisher verification file.
-
-Domain: robertnorthard.com 
-Token: 34d61d82b96085b683dfdcd8019ada0b34fc7b8b901f2591c667e080e2540aab
