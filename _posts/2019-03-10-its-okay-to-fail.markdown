@@ -16,7 +16,7 @@ It's okay to fail! If you're not failing you may not be learning effectively. Ma
 
 [![Cost of change](https://robertnorthard.com/assets/images/cost-of-change.jpg "Cost of Change")](http://www.agilemodeling.com/essays/costOfChange.htm)
 
-As a DevOps enthusiast I'm always looking for ways to fail faster. A recent example - I like readable code (we all do) by being well formatted (e.g. using the terraform format command). I  often ignore formatting warnings in my editor and forget to execute unit tests for small changes, but it would fail CI. This is waste, we could have failed faster. We should shift further left out of the pipeline and into the IDE so I forced myself to fix errors prior to committing by installing a pre-commit web hook - this can also be shared with the team. 
+As a DevOps enthusiast I'm always looking for ways to fail faster. A recent example - I like readable code (we all do) by being well formatted (e.g. using the terraform format command). I  often ignore formatting warnings in my editor and forget to execute unit tests for small changes, but it would fail CI. This is waste, we could have failed faster. We should shift further left out of the pipeline and into the IDE so I forced myself to fix errors prior to committing by installing a pre-commit hook - this can also be shared with the team. 
 
 Every-time the pipeline breaks beacuse of a code formatting error, assuming we are following a Trunk-based development approach, the team may stop to fix it, slowing development - this is waste. Should code formatting even fail the build if it functional works?
 
