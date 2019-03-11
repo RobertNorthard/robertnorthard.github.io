@@ -1,5 +1,5 @@
 ---
-title: It's okay to fail
+title: Fail faster, it's okay to fail
 layout: post
 date: 2019-03-10 15:00
 headerImage: false
@@ -9,7 +9,7 @@ tag:
 star: false
 category: blog
 author: robertnorthard
-description: it's okay to fail
+description: Fail faster! It's okay to fail
 ---
 
 It's okay to fail! If you're not failing you may not be learning effectively. Maybe failing / making mistakes through trial and error is how you learn best, but perseverance is key. Failing fast is a key principle of DevOps to reduce the impact and risk of failing (e.g. this could be financial by identifying defects earlier - see image below from AgileModeling).
