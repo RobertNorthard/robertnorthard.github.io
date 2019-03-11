@@ -21,6 +21,7 @@ As a DevOps enthusiast I'm interested in ways of failing faster and improving ef
 Every-time the pipeline breaks beacuse of a code formatting error, assuming we are following a Trunk-based development approach, someone in the team may have to stop to fix it for them to progress their change, slowing development - this is waste. Should code formatting even fail the build if it functional works?
 
 So what can you do to fail faster and reduce risk:
+* Install a pre-commit hook if you forget to validate before comitting
 * Work to a minimum viable product (MVP) 
 * Use metrics and data / feedback to guide solutions
 * Execute experiments - Hypothesis Driven Development
