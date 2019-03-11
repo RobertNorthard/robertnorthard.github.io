@@ -18,7 +18,7 @@ It's okay to fail! If you're not failing you may not be learning effectively. Ma
 
 As a DevOps enthusiast I'm interested in ways of failing faster and improving efficiency. A recent example - I like readable code (we all do) by being well formatted (e.g. using the terraform format command). I  often ignore formatting warnings in my editor and forget to execute unit tests for small changes, but it would fail CI. This is waste, we could have failed faster. We should shift further left out of the pipeline and into the IDE so I forced myself to fix errors prior to committing by installing a pre-commit hook - this can also be shared with the team. 
 
-Every-time the pipeline breaks beacuse of a code formatting error, assuming we are following a Trunk-based development approach, someone in the may have to stop to fix it for them to progress their change, slowing development - this is waste. Should code formatting even fail the build if it functional works?
+Every-time the pipeline breaks beacuse of a code formatting error, assuming we are following a Trunk-based development approach, someone in the team may have to stop to fix it for them to progress their change, slowing development - this is waste. Should code formatting even fail the build if it functional works?
 
 So what can you do to fail faster and reduce risk:
 * Work to a minimum viable product (MVP) 
