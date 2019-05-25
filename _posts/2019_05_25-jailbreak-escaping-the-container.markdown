@@ -10,7 +10,7 @@ tag:
 star: false
 category: blog
 author: robertnorthard
-description: #jailbreak - escaping the container
+description: jailbreak - escaping the container
 ---
 
 It's common knowledge that Docker containers should not be be run in privileged mode with a shared host PID namespace, but why? This example will provide a concrete example - it's simple.
