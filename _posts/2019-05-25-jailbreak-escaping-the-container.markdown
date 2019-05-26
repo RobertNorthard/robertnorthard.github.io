@@ -7,13 +7,16 @@ tag:
 - Docker
 - Privileged containers
 - Root
+- jailbreak
 star: false
 category: blog
 author: robertnorthard
 description: jailbreak - escaping the container
 ---
 
-It's common knowledge that Docker containers should not be be run in privileged mode with a shared host PID namespace, but why? This example will provide a concrete example - it's simple.
+It's common knowledge that Docker containers should not be be run in privileged mode with a shared host PID namespace, but why? In this case using a program like `nsenter` you can execute a process with the context of another processes, in this case PID 1.
+
+This example will help provide a concrete example of escaping a container, enabling you to access the hosts file system and execute shell commands.
 
 ````
 
@@ -26,6 +29,6 @@ $ nsenter --target 1 --mount sh
 
 ````
 
-In summary, this enables you to break out of the container and access the hosts file system and execute shell commands. This is only one of many ways you can escape a container.
+This one of many ways you can escape a container. When running containers you will want to drop other [capabilities](http://man7.org/linux/man-pages/man7/capabilities.7.html) such as the ability to reboot a host form inside the container.
 
 ~ Robert
