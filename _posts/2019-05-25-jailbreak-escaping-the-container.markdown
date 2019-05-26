@@ -29,6 +29,6 @@ $ nsenter --target 1 --mount sh
 
 ````
 
-This one of many ways you can escape a container. When running containers you will want to drop other [capabilities](http://man7.org/linux/man-pages/man7/capabilities.7.html) such as the ability to reboot a host form inside the container.
+This one of many ways you can escape a container. When running containers you will want to drop other [capabilities](http://man7.org/linux/man-pages/man7/capabilities.7.html) such as the ability to reboot a host from inside the container.
 
 ~ Robert
