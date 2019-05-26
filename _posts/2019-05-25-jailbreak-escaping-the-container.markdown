@@ -14,7 +14,7 @@ author: robertnorthard
 description: jailbreak - escaping the container
 ---
 
-It's common knowledge that Docker containers should not be be run in privileged mode with a shared host PID namespace, but why? In this case a malicious user, assuming they have access to the container via exec or a vulnerable application, could gain root access to the host using a program like `nsenter`. `nsenter` enables you to execute a process with the context of another processes, for example PID 1.
+It's common knowledge that Docker containers should not be be run in privileged mode with a shared host PID namespace, but why? In this case a malicious actor, assuming they have access to the container via exec or a vulnerable application, could gain root access to the host using a program like `nsenter`. `nsenter` enables you to execute a process with the context of another processes, for example PID 1.
 
 This example will help provide a concrete example of escaping a container, enabling you to access the hosts file system and execute shell commands.
 
