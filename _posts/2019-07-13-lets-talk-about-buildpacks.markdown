@@ -22,4 +22,7 @@ But who owns these buildpacks? Well, you might have a central SRE / CRE team res
 
 How might you implement build packs? That's for another post.
 
+Additional resources:
+* https://buildpacks.io/#learn-more
+
 ~Robert
