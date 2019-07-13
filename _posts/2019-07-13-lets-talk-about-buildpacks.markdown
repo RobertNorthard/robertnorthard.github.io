@@ -20,4 +20,6 @@ How could you achieve this? Well, buildpacks (not new, been around a while e.g. 
 
 But who owns these buildpacks? Well, you might have a central SRE / CRE team responsible for running applications and defining central buildpacks. But you’re abstracting the mechanics away from the developers, yes it is a trade off but nothing stops them developing the build packs they just need to be centrally catalogued and governed centrally.
 
+How might you implement build packs? That's for another post.
+
 ~Robert
