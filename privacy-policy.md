@@ -21,7 +21,6 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-
 Google
 https://policies.google.com/technologies/ads
 
