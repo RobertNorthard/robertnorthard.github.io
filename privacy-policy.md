@@ -30,7 +30,7 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
 
-You can opt-out of this ad serving on all sites using this advertising by visiting seeing google polict here - https://policies.google.com/technologies/ads?hl=en-UK
+You can opt-out of this ad serving on all sites using this advertising by visiting seeing google policy here - https://policies.google.com/technologies/ads?hl=en-UK
 
 </p>
 
