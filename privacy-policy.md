@@ -8,7 +8,7 @@ layout: page
 <h2>Log Files</h2>
 
 <p>
-As with many websites we collect and use data contained in log files. This includes your Internet Protocol (IP) addres, the browser you visit the site from, and which pages you visited throughout the site.
+As with many websites we collect and use data contained in log files. This includes your Internet Protocol (IP) address, the browser you visit the site from, and which pages you visited throughout the site.
 
 CloudFlare (https://www.cloudflare.com/privacypolicy/) is the content delivery network (CDN) we use for optimising traffic distribution.
 
