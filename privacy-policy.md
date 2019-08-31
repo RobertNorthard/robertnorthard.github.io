@@ -23,5 +23,5 @@ We also use third party advertisements / analytics to support our site.  Some of
 
 <h2>Your Personal Information Sharing</h2>
 <p>
-We use Google Analytics to help us understand who uses the webite. Google privacy sattement is here https://www.google.com/intl/en/policies/privacy/.  You can opt-out of Google Analytics here https://tools.google.com/dlpage/gaoptout.
+We use Google Analytics to help us understand who uses the website. Google privacy statement is here https://www.google.com/intl/en/policies/privacy/.  You can opt-out of Google Analytics here https://tools.google.com/dlpage/gaoptout.
 </p>
