@@ -26,7 +26,7 @@ Terraform range of providers let you configure cloud resources from another clou
 
 Terraform code is simple, the syntax is easy to learn and is easy to make modular code.
 
-### Templateing
+### Templating
 
 The ability to override default values and template files makes it a good candidate for creating multiple-environments from the same code base without changing the code.
 
@@ -38,7 +38,7 @@ Terraform naturally lags behind he cloud providers API and therefore latest and 
 
 ### Statefile
 
-You have to manage a statefile. So you have a 'chicken and egg' problem. To use Terraform you need a storage location and to provision this you would need to use the cloud providers native tool of choice. Hashicorp have recently announced Terraform cloud Remote State Management which should resolve this if you are comfortable with them storing the sate file.
+You have to manage a statefile. So you have a 'chicken and egg' problem. To use Terraform you need a storage location and to provision this you would need to use the cloud providers native tool of choice. Hashicorp have recently announced Terraform cloud Remote State Management which should resolve this if you are comfortable with them storing the state file.
 
 ### Secrets
 
