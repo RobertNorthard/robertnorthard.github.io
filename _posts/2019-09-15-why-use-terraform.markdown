@@ -40,7 +40,7 @@ Terraform naturally lags behind he cloud providers API and therefore latest and 
 
 You have to manage a statefile. So you have a 'chicken and egg' problem. To use Terraform you need a storage location and to provision this you would need to use the cloud providers native tool of choice. Hashicorp have recently announced Terraform cloud Remote State Management which should resolve this if you are comfortable with them storing the sate file.
 
-### Secretes
+### Secrets
 
 The statefile can contain secrets if you are passing them into services. 
 
