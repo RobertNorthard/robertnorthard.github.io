@@ -16,7 +16,7 @@ I am often asked should we use Terraform or the cloud providers native (e.g. AWS
 
 How does this work? Well the monorepo would consist of a number of number of modules and a single Terraform main.tf file to call these modules. You might also have InSpec tests and a Makefile to orchestrate Terraform commands in a CI / CD pipeline.
 
-But why would you use Terraform over other other infrastructure as code:
+But why would you use Terraform over other infrastructure as code:
 
 ### Support for cross cloud and other services
 
