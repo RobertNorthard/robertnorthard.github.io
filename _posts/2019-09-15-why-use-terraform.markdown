@@ -34,7 +34,7 @@ Why would you not use Terraform:
 
 ### API support
 
-Terraform naturally lags behind he cloud providers API and therefore latest and greatest features and often not available for new services.
+Terraform naturally lags behind the cloud providers API and therefore latest and greatest features and often not available for new services.
 
 ### Statefile
 
