@@ -1,7 +1,7 @@
 ---
 title: "Improving maintenance of your Jenkins(file) pipelines"
 layout: post
-date: 2020-10-20 18:00
+date: 2020-10-19 18:00
 headerImage: false
 tag:
 - Pipelines as code
