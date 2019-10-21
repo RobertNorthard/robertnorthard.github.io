@@ -19,7 +19,7 @@ Declarative Jenkins pipeline are great. It makes it easy to create multi-branch 
 
 Imagine an environment where there is 10 services and therefore 10 copies of the same Jenkinsfile. To change a method we have to update the Jenkinsfile in 10 different places. With this level of decoupling teams will struggle to standardise and benefit from efficiency as we scale.
 
-To try and resolve this you can look at developing Jenkins shared libraries. Libraries enable you to encapsulate build steps in re-usable methods. A shared library is stored in Git and retrieved as part of Jenkins pipeline builds. Jenkins pipelines can then import methods from this library - see example code below. This is great, we can now build a pipeline with shared step implementation and these steps can maintained and controlled centrally. The library can also be versioned.
+To try and resolve this you can look at developing Jenkins shared libraries. Libraries enable you to encapsulate build steps in re-usable methods. A shared library is stored in Git and retrieved as part of Jenkins pipeline builds. Jenkins pipelines can then import methods from this library - see example code below. This is great, we can now build a pipeline with shared step implementation. The library can also be versioned.
 
 ````
 
