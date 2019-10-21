@@ -42,7 +42,7 @@ pipeline {
 
 Shared libraries are a good start as it enables standard methods that product teams can use for their CI / CD steps. Teams still have control over the order of stages in the pipeline. In my opinion, we should be opinionated on the stages on what a CI / CD pipeline for say Java should look like.
 
-Now let's scale, imagine you have 100 services (same technology) spread across 100 repositories and we want to add a new "stage" to the pipeline for enhanced security testing. With this approach the product teams would have to update 100 repositories. How might you tackle this?
+Imagine we have made this improvement and scale again. You have 100 services (same technology) spread across 100 repositories and we want to add a new "stage" to the pipeline for enhanced security testing. With this type of change the product teams would still have to update 100 repositories as a new stage would need to be added. How might you tackle this?
 
 Linking into a previous blog post you could jump to buildpacks, but let's solve the problem with Jenkins pipelines first.
 
