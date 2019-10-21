@@ -15,7 +15,7 @@ description: Improving maintenance of your Jenkins(file) pipelines
 
 Do you have 100s repositories with Jenkinsfile that look very similar and spend hours updating after the slightest change?
 
-Declarative Jenkins pipeline are great. It makes it easy to create multi-branch pipelines (e.g. run tests or even build environments on feature branches). However, with all these Jenkinsfile everywhere maintaining them and sharing assets can be a challenge.
+Declarative Jenkins pipeline are great. It makes it easier to create multi-branch pipelines (e.g. run tests or even build environments on feature branches). However, with all these Jenkinsfile everywhere maintaining them and sharing assets can be a challenge.
 
 Imagine an environment where there is 10 services and therefore 10 copies of the same Jenkinsfile. To change a method we have to update the Jenkinsfile in 10 different places. With this level of decoupling teams will struggle to standardise and benefit from efficiency as we scale.
 
