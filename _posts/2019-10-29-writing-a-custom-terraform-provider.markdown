@@ -96,7 +96,7 @@ func resourceCoinbaseSourceAddressRead(d *schema.ResourceData, m interface{}) er
 
 Breaking this down a bit. The `dataCoinbaseAddress` function returns a new Resource. "Read" is the function to execute when refreshing the Terraform data source and "Schema" is the data resource attributes. This resource has one attribute named "api_endpoint" which is computed and therefore not provided by the user.
 
-The `resourceCoinbaseSourceAddressRead` function takes in the `ResourceData` which is the user provided attributes of the data source. Using `d.Set("api_endpoint", endpoint)` we can then add an attribute to this struct of type `ResourceData`. ResourceData is used for CRUD based operations on the resource e.g. querying or setting attributes on a resource and other purposes.
+The `resourceCoinbaseSourceAddressRead` function takes in the `ResourceData` which is the user provided attributes of the data source. Using `d.Set("api_endpoint", endpoint)` we can then add an attribute to this struct of type `ResourceData`. ResourceData is used for CRUD based operations on the resource e.g. querying or setting attributes and other purposes.
 
 To build the provider you will need to run the following Go commands:
 
