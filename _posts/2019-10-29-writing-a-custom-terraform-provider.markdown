@@ -12,7 +12,7 @@ author: robertnorthard
 description: Writing a custom Terraform provider!
 ---
 
-So, how do you develop a custom Terraform provider? There are a lot of blogs like this, but the purpose of this one is to learn myself. In this post we will develop a custom terraform provider that exposes a data source for retrieving the Coinable API endpoint.
+So, how do you develop a custom Terraform provider? There are a lot of blogs like this, but the purpose of this one is to learn myself. In this post we will develop a custom terraform provider that exposes a data source for retrieving the Coinbase API endpoint.
 
 First, I read the [Terraform plugin SDK getting started guide](https://www.terraform.io/docs/extend/writing-custom-providers.html), which is is a good overview of the SDK which is used for developing a custom Terraform provider. This blog posts assumes you have all "Go" pre-reqs set-up successfully. 
 
