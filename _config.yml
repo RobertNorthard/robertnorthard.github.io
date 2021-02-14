@@ -1,5 +1,5 @@
 # main text of home
-name: Robert Northard
+name: Robert's Blog
 bio: Software Engineer. Runner, Walker and if it compiles it works... 
 
 # twitter summary info
@@ -41,7 +41,7 @@ stackoverflow: 471745/hmm
 
 authors:
     robertnorthard:
-        name: Robert Northard
+        name: Robert
         bio: If it compiles it works!
         external-image: false
         picture: assets/images/profile.jpg
