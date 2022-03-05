@@ -1,6 +1,6 @@
 # main text of home
 name: Robert's Blog
-bio: Software Engineer. Runner, Walker and if it compiles it works... 
+bio: Software Engineer.
 
 # twitter summary info
 description: A blog about technology.
@@ -12,8 +12,8 @@ description: A blog about technology.
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://www.linkedin.com/in/robertnorthard/
 
 url: https://robertnorthard.com
@@ -34,18 +34,18 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: robertnorthard
-github: robertnorthard
-stackoverflow: 471745/hmm
+#twitter:
+#github:
+#stackoverflow: 
 #email: 
 
 authors:
     robertnorthard:
         name: Robert
-        bio: If it compiles it works!
+        # bio:
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: robertnorthard
+        #picture:
+        #twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
