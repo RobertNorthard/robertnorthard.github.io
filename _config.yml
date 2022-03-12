@@ -17,8 +17,7 @@ resume-external: false
 resume-url: 
 
 url: https://robertnorthard.com
-# your url: http://USERNAME.
-.io
+# your url: http://USERNAME.io
 
 permalink: /:title/
 
