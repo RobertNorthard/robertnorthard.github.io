@@ -1,6 +1,6 @@
 # main text of home
 name: Robert's Blog
-bio: Software Engineer.
+bio: Engineer.
 
 # twitter summary info
 description: A blog about technology.
@@ -14,10 +14,11 @@ description: A blog about technology.
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://www.linkedin.com/in/robertnorthard/
+resume-url: 
 
 url: https://robertnorthard.com
-# your url: http://USERNAME.github.io
+# your url: http://USERNAME.
+.io
 
 permalink: /:title/
 
@@ -35,7 +36,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #twitter:
-#github:
+github: http://github.com/RobertNorthard
 #stackoverflow: 
 #email: 
 
